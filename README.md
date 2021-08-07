@@ -12,6 +12,6 @@
 
 ![https://github-readme-stats.vercel.app/api?username=nondukishor&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=nondukishor&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[!['State'](https://github-readme-stats.vercel.app/api/wakatime?username=Nondukishor)](https://github.com/anuraghazra/github-readme-stats)
 
 

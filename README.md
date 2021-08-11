@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/nipuchakraborty/"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png"/></a>
 <a href="https://www.facebook.com/pro.nipuchakraborty/"><img src="https://img.icons8.com/nolan/64/facebook.png"/></a>
 <a href="https://twitter.com/Nipuchak"><img src="https://img.icons8.com/nolan/64/twitter.png"/></a>
-<a href="https://www.instagram.com/nkchakraborty/"><img src="https://img.icons8.com/nolan/50/instagram-new.png"/></a>
+<a href="https://www.instagram.com/nkchakraborty/"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
 
 
 

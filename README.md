@@ -8,7 +8,7 @@
 <img src="https://img.icons8.com/ios-filled/64/4a90e2/react-native.png"/>
 <img src="https://img.icons8.com/color/64/4a90e2/java-coffee-cup-logo--v1.png"/>
  <img src="https://img.icons8.com/color/64/4a90e2/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/4a90e2/nodejs.png"/>
+<img src="https://img.icons8.com/color/64/4a90e2/nodejs.png"/>
 </div>
 
 ![https://github-readme-stats.vercel.app/api?username=nondukishor&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=nondukishor&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515)

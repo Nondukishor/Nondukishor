@@ -9,6 +9,8 @@
 <img src="https://img.icons8.com/color/64/4a90e2/java-coffee-cup-logo--v1.png"/>
  <img src="https://img.icons8.com/color/64/4a90e2/python--v1.png"/>
 <img src="https://img.icons8.com/color/64/4a90e2/nodejs.png"/>
+ <img src="https://img.icons8.com/windows/64/000000/vuejs.png"/>
+ <img src="https://img.icons8.com/nolan/64/angularjs.png"/>
 </div>
 
 ![https://github-readme-stats.vercel.app/api?username=nondukishor&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=nondukishor&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515)
@@ -18,9 +20,7 @@
 <a href="https://twitter.com/Nipuchak"><img src="https://img.icons8.com/nolan/64/twitter.png"/></a>
 <a href="https://www.instagram.com/nkchakraborty/"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
 
-<script>
-   console.log("Hello world")
-</script>
+
 
 
 

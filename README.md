@@ -31,3 +31,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/pronipu?theme=dark&border=2&radius=5)
 
+<div>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nondukishor&layout=compact&&langs_count=8&theme=chartreuse-dark&hide=scss,less,perl" />
+</div>
+

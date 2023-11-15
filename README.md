@@ -23,7 +23,7 @@
 
 
 
-
+[![Profile Views badge](https://hits.sh/github.com/Nondukishor.svg?label=profile%20views&extraCount=2849&color=007ec6)](https://hits.sh/github.com/Nondukishor/) [![Hits](https://hits.sh/github.com/Nondukishor.svg?view=today-total&label=views%20today&extraCount=2848&color=007ec6)](https://hits.sh/github.com/Nondukishor/) ![GitHub Followers](https://img.shields.io/github/followers/Nondukishor) ![GitHub Stars Earned](https://img.shields.io/github/stars/Nondukishor)
 
 
 
